@@ -8,7 +8,3 @@ An AI-powered app to calculate and reduce your carbon footprint using Streamlit 
 - Personalized recommendations
 - Data visualization
 
-## Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ai-carbon-footprint-tracker.git 
